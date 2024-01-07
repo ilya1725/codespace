@@ -10,6 +10,6 @@ add_subdirectory(cmake EXCLUDE_FROM_ALL)
 
 enable_testing()
 
-add_subdirectory(tlgr)
+// add_subdirectory(tlgr)
 add_subdirectory(gtest)
 
